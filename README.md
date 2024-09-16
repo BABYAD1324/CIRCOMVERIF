@@ -118,10 +118,4 @@ akshaypsandhya@gmail.com
 
 Contributors names and contact info:
 
-Amar
-[@Akshay](akshaypsandhya@gmail.com)
-
-
-## License
-
-This project is licensed under the [akshy] License - see the LICENSE.md file for details
+babyad1324@gmail.com
